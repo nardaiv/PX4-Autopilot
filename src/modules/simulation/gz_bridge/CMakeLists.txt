@@ -94,6 +94,7 @@ if(gz-transport_FOUND)
 		baylands
   		lawn
 		firamap
+		krti2024
 	)
 
 	# find corresponding airframes
